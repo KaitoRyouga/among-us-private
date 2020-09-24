@@ -1,5 +1,14 @@
 # Among Us private
 
+## 0. Dành cho ai chưa tải game
+
+### B1: Tải file zip và giải nén: [Link](https://github.com/KaitoRyouga/among-us-private/releases/download/1.0.0/among-us-windows.zip)
+
+### B2: Run file .exe và chơi
+![run game](./image/0.png)
+
+
+
 ## 1. Laptop
 
 ### B1: Download file zip và giải nén: [Link](https://github.com/KaitoRyouga/among-us-private/releases/download/1.0.0/Impostor-Client-win-x64.zip)
