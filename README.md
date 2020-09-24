@@ -2,7 +2,7 @@
 
 ## 1. Laptop
 
-### B1: Download file zip và giải nén: [Link](https://github.com/AeonLucid/Impostor/releases/download/v1.0.0/Impostor-Client-win-x64.zip)
+### B1: Download file zip và giải nén: [Link](https://github.com/KaitoRyouga/among-us-private/releases/download/1.0.0/Impostor-Client-win-x64.zip)
 
 ### B2: Run file .exe
 ![run file exe](./image/1.png)
@@ -23,7 +23,7 @@
 
 ## 2. Android
 
-### B1: Tải file này: [regionInfo.dat]()
+### B1: Tải file này: [regionInfo.dat](https://github.com/KaitoRyouga/among-us-private/releases/download/1.0.0/regionInfo.dat)
 
 ### B2: Đi tới đường dẫn ``/sdcard/Android/data/com.innersloth.spacemafia/files``
 
