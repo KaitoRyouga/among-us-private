@@ -16,7 +16,7 @@
 ### B2: Run file .exe
 ![run file exe](./image/1.png)
 
-### B3: Nhập IP: ``34.126.69.41`` và nhấn `Save`
+### B3: Nhập IP: ``34.126.100.136`` và nhấn `Save`
 
 ![enter ip](./image/2.png)
 
