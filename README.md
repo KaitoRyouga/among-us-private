@@ -11,7 +11,7 @@
 
 ## 1. Laptop
 
-### B1: Download file zip và giải nén: [Link](https://github.com/KaitoRyouga/among-us-private/releases/download/1.0.0/Impostor-Client-win-x64.zip)
+### B1: Download file zip và giải nén: [Link](https://github.com/KaitoRyouga/among-us-private/releases/download/1.0.0/Impostor-Patcher_1.3.0_win-x64.zip)
 
 ### B2: Run file .exe
 ![run file exe](./image/1.png)
